@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-image{
+    height: 100px;
+    width: 100px;
+}
+
+ul{
+    list-style: none;
+}
